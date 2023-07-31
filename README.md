@@ -3,11 +3,8 @@
 A music player use ZingMp3 API
 
 ## Live Demo
-<<<<<<< HEAD
 - [[https://play-music-zingmp3.vercel.app/]]([https://play-music-zingmp3.vercel.app/])
-=======
 - [https://play-music-zingmp3.vercel.app/]
->>>>>>> c9ef7502235ac7f05d595bc82897b0759f617cb3
 
 ## Main technology
 - [react](https://github.com/facebook/react)
