@@ -3,7 +3,6 @@
 A music player use ZingMp3 API
 
 ## Live Demo
-- [[https://play-music-zingmp3.vercel.app/]]([https://play-music-zingmp3.vercel.app/])
 - [https://play-music-zingmp3.vercel.app/]
 
 ## Main technology
